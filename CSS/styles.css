@@ -2,7 +2,7 @@ body{
     margin: 0;
     text-align: center;
     font-family: "Merriweather", sans-serif;
-    background-color: #FEFBE7;
+    background-color: #E8EAE6;
 }
 
 h1{
@@ -28,8 +28,16 @@ h3{
 a{
     color: #C69B7B;
 }
+
+hr{
+    border-style: dotted none none;
+    border-width: 0.3em;
+    width: 5%;
+    color: #C69B7B;
+}
+
 .top-container{
-    background-color: #FEFBE7;
+    background-color: #E8EAE6;
     position: relative;
     padding-top: 20px;
 }
@@ -39,7 +47,7 @@ a{
 }
 
 .bottom-container{
-    background-color: #8E806A;
+    background-color: #7C9473;
     padding-top: 30px;
     padding-bottom: 30px;
 }
